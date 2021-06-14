@@ -4,3 +4,4 @@ bqplot
 pandas
 numpy
 lxml
+matplotlib
