@@ -3,3 +3,4 @@ voila-material
 bqplot
 pandas
 numpy
+lxml
